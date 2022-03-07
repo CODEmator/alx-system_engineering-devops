@@ -1,0 +1,2 @@
+#!/bin/bash
+Exploring a powerful feature used by command line programs called input/output redirections
