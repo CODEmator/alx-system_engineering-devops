@@ -1,0 +1,1 @@
+This directory explains shell variables and expansions[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
